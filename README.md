@@ -2,4 +2,4 @@
 
 ### Proyecto Java / Java Application
 
-### Ejemplo básico de Funciones (Mensaje)
+## Ejemplo básico de funciones (Mensaje)
