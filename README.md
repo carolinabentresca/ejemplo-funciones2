@@ -1,5 +1,5 @@
-# Funciones
+## Funciones
 
-### Proyecto Java / Java Application
+### Proyecto Java Application
 
-## Ejemplo básico de funciones (Mensaje)
+- #### Ejemplo básico de funciones (Mensaje)
